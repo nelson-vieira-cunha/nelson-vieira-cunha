@@ -1,6 +1,10 @@
 ### Olá 👋
 
-Sou Nelson Vieira, um apaionado por tecnologia e Engenheiro de Software dedicado, estou em constante desenvolvimento de habilidades, sou desenvolvedor Full-stack  com foco em Front-end, forte conhecimento em typescript com angular e react, também tenho experiencia e conhecimento em Angularjs, Python, Mulesoft, Java, Spring entre outras tecnologias. 
+Olá! Sou Nelson Vieira, um entusiasta fervoroso da tecnologia e um Engenheiro de Software apaixonado. Estou constantemente aprimorando minhas habilidades para me manter na vanguarda do desenvolvimento de software. Como um desenvolvedor Full-stack com especialização em Front-end, mergulho de cabeça no universo do TypeScript, Angular e React, transformando ideias em interfaces deslumbrantes e interativas.
+
+Minha jornada tecnológica é marcada por uma vasta experiência que inclui não apenas as últimas tendências, mas também o domínio de tecnologias mais antigas, como o AngularJS. Além disso, minha paixão pelo código se estende além do Front-end, abrangendo Python, Mulesoft, Java, Spring e muito mais.
+
+Estou sempre pronto para novos desafios e oportunidades de crescimento. Vamos juntos explorar as infinitas possibilidades do mundo digital!
 
 
 <div>
